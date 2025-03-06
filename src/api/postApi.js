@@ -1,7 +1,7 @@
 
 import axios from "axios";
 
-const API_SERVER_HOST = 'http://192.168.100.129:30080';
+const API_SERVER_HOST = 'http://192.168.50.133:30080';
 
 const prefix = `${API_SERVER_HOST}/api/v1`;
 
