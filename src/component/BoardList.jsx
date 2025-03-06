@@ -96,7 +96,7 @@ const BoardList = () => {
 
   return (
     <>
-      <h3>BoardList Page</h3>
+      <h3>게시판 페이지</h3>
 
       {/* 검색 폼 */}
       <div style={{ marginBottom: "20px" }}>
